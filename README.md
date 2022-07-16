@@ -1,4 +1,4 @@
-# RFM Segmentation and Clustering Analysis
+# RFM Analysis and Clustering Analysis
 
 This project is used for Advanced Assignment on RevoU Data Analytics Program.
 
